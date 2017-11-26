@@ -13,10 +13,6 @@
     <string name="perf_profile_balance">"此配置文件介于省电和性能之间。适用于不想降低性能又想要省电的用户。"</string>
     <string name="perf_profile_gaming">"此配置文件着重于性能，适用于想要最佳性能而不介意耗电的用户。"</string>
     <string name="cnc"><b>贡献者</b></string>
-    <string name="rakesh_raaj52_vivek_testing">Rakesh, Raaj52, Vivek ( <u>测试</u> )</string>
-    <string name="savio_tyaginator_graphics">Savio, Tyaginator ( <u>绘图</u> )</string>
-    <string name="apache_stringutils">Apache ( <u>StringUtils</u> )</string>
-    <string name="philjay_mpandroidchart">PhilJay ( <u>MPAndroidChart</u> )</string>
     <string name="cpu_load">CPU 已用:</string>
     <string name="cpu_temp">CPU 温度:</string>
     <string name="batt_temp">电池温度:</string>
@@ -42,7 +38,7 @@
     <string name="custom1">自定义1</string>
     <string name="custom2">自定义2</string>
     <string name="color_chart">色彩预览</string>
-    <string name="radon_profiles">RADON 配置文件</string>
+    <string name="radon_profiles">Radon 配置文件</string>
     <string name="enhanced_warm">增强（暖色调）</string>
     <string name="enhanced_cool">增强（冷色调）</string>
     <string name="standard">标准</string>
@@ -76,7 +72,6 @@
     <string name="backup_summary">此选项可以将您的所有设置和配置文件（如性能配置、显示配置、手势和声音配置）备份到内部存储。</string>
     <string name="backup">备份</string>
     <string name="restore">恢复</string>
-    <string name="umang96_main_developer">Umang96 ( <u>主开发者</u> )</string>
     <string name="no_root">没有 Root 权限！</string>
     <string name="root_description">没有授予 Root 权限，请确保您的设备已经 Root，并且确认您的 Root 权限管理应用没有拒绝 Radon 内核控制的权限！</string>
     <string name="close">关闭</string>
@@ -96,7 +91,7 @@
     <string name="update">有可用更新</string>
     <string name="fail_to_check">检查更新失败！</string>
     <string name="unavailable">不可用</string>
-    <string name="miui_on_boot_warning">如需要在系统启动时应用，您需要在 miui 安全应用程序中为 Radon 内核控制提供自启权限。</string>
+    <string name="miui_on_boot_warning">如需要在系统启动时应用，您需要在 MIUI 安全中心里为 Radon 内核控制提供自启权限。</string>
     <string name="warning_miui">警告！</string>
     <string name="miui_check">"不再显示"</string>
     <string name="radon_not_installed">没有安装 Radon！</string>
@@ -107,14 +102,14 @@
     <string name="variant_to_install">安装类型:</string>
     <string name="no_update_available">没有可用的更新</string>
     <string name="latest_available">最新可用:</string>
-    <string name="radon_kernel_updates">RADON 内核更新</string>
+    <string name="radon_kernel_updates">Radon 内核更新</string>
     <string name="current_version">当前版本:</string>
-    <string name="dashboard">仪表板</string>
+    <string name="dashboard">概况</string>
     <string name="performance">性能</string>
     <string name="display">显示</string>
     <string name="gestures">手势</string>
-    <string name="misc">杂</string>
+    <string name="misc">其他</string>
     <string name="settings">设置</string>
-    <string name="voltage_delay_check">延迟适用于电压启动</string>
-    <string name="enable_drain_notification">启用排水通知</string>
+    <string name="voltage_delay_check">启动时延迟应用电压配置</string>
+    <string name="enable_drain_notification">在通知栏显示电池信息</string>
 </resources>
