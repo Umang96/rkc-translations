@@ -109,4 +109,12 @@
     <string name="latest_available">最新可用:</string>
     <string name="radon_kernel_updates">RADON 内核更新</string>
     <string name="current_version">当前版本:</string>
+    <string name="dashboard">仪表板</string>
+    <string name="performance">性能</string>
+    <string name="display">显示</string>
+    <string name="gestures">手势</string>
+    <string name="misc">杂</string>
+    <string name="settings">设置</string>
+    <string name="voltage_delay_check">延迟适用于电压启动</string>
+    <string name="enable_drain_notification">启用排水通知</string>
 </resources>
