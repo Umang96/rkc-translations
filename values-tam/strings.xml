@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">ரேடான் கெர்னல் கட்டுப்பாடு</string>
-    <string name="navigation_drawer_open">வழிசெலுத்தல் இழுப்பானை திற</string>
-    <string name="navigation_drawer_close">வழிசெலுத்தல் இழுப்பானை மூடு</string>
+    <string name="navigation_drawer_open">வழி. இழுப்பானை திற</string>
+    <string name="navigation_drawer_close">வழி. இழுப்பானை மூடு</string>
     <string name="action_settings">அமைப்புகள்</string>
     <string name="batterystatspophead"><b>பேட்டரி விவரங்கள்</b></string>
     <string name="battery_note"><b>குறிப்பு:</b> நீங்கள் சார்ஐ் செய்யும் போது\nபேட்டரி விவரங்கள் அதிகரிப்பது இடைநிறுத்தப்படும்.</string>
@@ -18,14 +18,14 @@
     <string name="apache_stringutils">Apache ( <u>StringUtils</u> )</string>
     <string name="philjay_mpandroidchart">PhilJay ( <u>MPAndroidChart</u> )</string>
     <string name="cpu_load">CPU சுமை</string>
-    <string name="cpu_temp">CPU வெப்ப நிலை</string>
-    <string name="batt_temp">பேட்டரி வெப்ப நிலை</string>
+    <string name="cpu_temp">CPU வெப்பம்</string>
+    <string name="batt_temp">பேட். வெப்பம்</string>
     <string name="frequency_widget">அதிர்வெண் விட்ஐெட்</string>
     <string name="memory">நினைவகம்</string>
     <string name="cpu">CPU</string>
     <string name="total">மொத்தம்:</string>
-    <string name="nused">\nபயன்படுத்திய:</string>
-    <string name="free">\n\n விடுவிக்கப்பட்ட:</string>
+    <string name="nused">\nபயன்:</string>
+    <string name="free">\n\n விடுவி:</string>
     <string name="zram_off">ZRAMஐ அணை</string>
     <string name="gpu">GPU</string>
     <string name="freq_nmin_nmax_nload">அதிர்வெண்: \nகுறைந்தபட்ச: \nஅதிகபட்ச: \nசுமை:</string>
