@@ -144,5 +144,5 @@ Współtwórcy:"</string>
     <string name="enable_drain_notification">Włącz powiad. o drenażu</string>
     <string name="cpu_voltages">Napięcia CPU</string>
     <string name="gpu_voltages">Napięcia GPU</string>
-    <string name="leave_voltages_stock">Jeśli jesteś zwykłym userem, to pozostaw napięcia domyślne. Śmoało możesz eskperymentować, jeśli jesteś zaawansowanym userem.</string>
+    <string name="leave_voltages_stock">Jeśli jesteś zwykłym userem, to pozostaw napięcia domyślne. Śmiało możesz eskperymentować, jeśli jesteś zaawansowanym userem.</string>
 </resources>
