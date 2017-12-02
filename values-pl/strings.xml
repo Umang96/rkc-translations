@@ -63,15 +63,15 @@ Profil koloru ekranu:"</string>
     <string name="custom_profiles">PROFILE NIESTANDARDOWE</string>
     <string name="custom3">Niestandardowy3</string>
     <string name="double_tap_to_wake">DOTKNIJ DWUKROTNIE, ABY WYBUDZIĆ</string>
-    <string name="dt2w_summary">Po włączeniu tej opcji, będzie można dwukrotnie dotknąć ekranu gdy ekran jest wyłączony, aby obudzić urządzenie.</string>
+    <string name="dt2w_summary">Po włączeniu tej opcji, będzie można dwukrotnie dotknąć ekranu, gdy ekran jest wyłączony, aby wybudzić urządzenie.</string>
     <string name="sweep_to_wake">PRZECIĄGNIJ, ABY WYBUDZIĆ</string>
-    <string name="s2w_summary">Po włączeniu tej opcji, będzie można przeciągnąć palcem po ekranie w tym kierunku, gdy ekran jest wyłączony, aby wybudzić urządzenie.</string>
+    <string name="s2w_summary">Po włączeniu tej opcji, będzie można przeciągnąć palcem po ekranie w wybranym kierunku, gdy ekran jest wyłączony, aby wybudzić urządzenie.</string>
     <string name="sweep_right">Przeciągnięcie w prawo</string>
     <string name="sweep_left">Przeciągnięcie w lewo</string>
     <string name="sweep_up">Przeciągnięcie w górę</string>
     <string name="sweep_down">Przeciągnięcie w dół</string>
     <string name="sweep_to_sleep">PRZECIĄGNIJ, ABY UŚPIĆ</string>
-    <string name="s2s_summary">Po włączeniu tej opcji, będzie można przeciągnąć dolny obszar w tym kierunku, podczas gdy ekran jest wyłączony.</string>
+    <string name="s2s_summary">Po włączeniu tej opcji, będzie można przeciągnąć dolny obszar w wybranym kierunku, podczas gdy ekran jest włączony, aby uśpić urządzenie.</string>
     <string name="disable">Nieaktywne</string>
     <string name="sweep_right_or_left">Przeciągnij w prawo lub w lewo</string>
     <string name="gesture_vibration">SIŁA WIBRACJI GESTÓW</string>
@@ -91,7 +91,7 @@ Ustawienia gestów
 Inne ustawienia
 Pokaż powiad. na starcie"</string>
     <string name="backup_and_restore">KOPIA ZAPASOWA I PRZYWRACANIE</string>
-    <string name="backup_summary">Użyj tej opcji do tworzenia kopii zapasowych wszystkich ustawień i profili, takich jak profile wydajności, profile wyświetlacza, ustawienia gestów i dźwięku na wewnętrznej karcie SD.</string>
+    <string name="backup_summary">Funkcja służy do tworzenia kopii zapasowych wszystkich profili i ustawień z tej aplikacji w pamięci wewnętrznej.</string>
     <string name="backup">Kopiuj</string>
     <string name="restore">Przywróć</string>
     <string name="umang96_main_developer">Umang96 ( <u>Główny Developer</u> )</string>
