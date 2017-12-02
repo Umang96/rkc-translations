@@ -134,8 +134,8 @@ Współtwórcy:"</string>
     <string name="latest_available">Nowsza wersja:</string>
     <string name="radon_kernel_updates">AKTUALIZACJE RADON KERNEL</string>
     <string name="current_version">Zainstalowana:</string>
-    <string name="dashboard">Statystyki</string>
-    <string name="performance">Wydajność</string>
+    <string name="dashboard">Tablica wskaźników</string>
+    <string name="performance">Profile wydajności</string>
     <string name="display">Wyświetlacz</string>
     <string name="gestures">Gesty</string>
     <string name="misc">Inne</string>
