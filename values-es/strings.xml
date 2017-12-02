@@ -117,4 +117,7 @@
     <string name="settings">Configuraciones</string>
     <string name="voltage_delay_check">Retraso aplicado en el arranque</string>
     <string name="enable_drain_notification">Habilitar notificación de drenaje</string>
+    <string name="cpu_voltages">Cpu voltajes</string>
+    <string name="gpu_voltages">Gpu voltajes</string>
+    <string name="leave_voltages_stock">Deje existencias de voltajes si es un usuario normal, avance solo si es un usuario avanzado y desea experimentar con voltajes.</string>
 </resources>

@@ -142,4 +142,7 @@ Współtwórcy:"</string>
     <string name="settings">Ustawienia</string>
     <string name="voltage_delay_check">Opóźnij zast. na starcie dla napięć</string>
     <string name="enable_drain_notification">Włącz powiad. o drenażu</string>
+    <string name="cpu_voltages">Cpu napięcia</string>
+    <string name="gpu_voltages">Gpu napięcia</string>
+    <string name="leave_voltages_stock">Jeśli jesteś normalnym użytkownikiem, pozostaw napięcie, tylko jeśli jesteś zaawansowanym użytkownikiem i chcesz eksperymentować z napięciami.</string>
 </resources>

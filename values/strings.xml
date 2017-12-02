@@ -117,4 +117,7 @@
     <string name="settings">Settings</string>
     <string name="voltage_delay_check">Delay apply on boot for voltages</string>
     <string name="enable_drain_notification">Enable drain notification</string>
+    <string name="cpu_voltages">Cpu voltages</string>
+    <string name="gpu_voltages">Gpu voltages</string>
+    <string name="leave_voltages_stock">Leave voltages stock if you are a normal user, go ahead only if you are an advanced user and want to experiment with voltages.</string>
 </resources>
