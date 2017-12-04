@@ -117,7 +117,7 @@
     <string name="settings">设置</string>
     <string name="voltage_delay_check">启动时延迟应用电压配置</string>
     <string name="enable_drain_notification">在通知栏显示电池信息</string>
-    <string name="cpu_voltages">Cpu 电压</string>
-    <string name="gpu_voltages">Gpu 电压</string>
-    <string name="leave_voltages_stock">如果您是普通用户，请留下电压库存，只有当您是高级用户并且想要试验电压时才可以继续。</string>
+    <string name="cpu_voltages">CPU 电压</string>
+    <string name="gpu_voltages">GPU 电压</string>
+    <string name="leave_voltages_stock">如果您是普通用户，请保持默认电压，除非您是想要测试电压的高级用户。</string>
 </resources>
